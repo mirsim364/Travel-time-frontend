@@ -1,0 +1,63 @@
+.navbar{
+    margin: auto;
+    max-height: 75px;
+    display:flex;
+    justify-content:space-around;
+    position: sticky;
+    top: 0;
+    z-index: 3;
+    background-color:white;
+    font-size: 15px;
+    align-items: center;
+}
+
+.navdetailList{
+    margin: 2rem;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    
+}
+
+
+.navdetailList:hover{
+    color:rgb(17,47,118);
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid;
+}
+
+.navbtn{
+    background: rgb(17,47,118);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+}
+
+.navbtn:hover{
+    background: rgb(243,235,235);
+    color: rgb(17,47,118);
+}
+.img{
+    text-align: right;
+}
+.user{
+    
+    background: url('../../assests/back.jpg');
+  
+  height: 100%;
+  background-size:cover;
+  background-position: center;
+}
+.navdetail{
+    display: flex;
+    font-weight: 700;
+}
+.link{
+    text-decoration: none;
+}
+

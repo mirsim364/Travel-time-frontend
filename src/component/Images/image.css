@@ -1,0 +1,19 @@
+.imgh1{
+    
+    margin-left: 10px;
+        font-size: 50px;
+    
+}
+.imgpg{
+    text-align: center;
+}
+.imgp{
+    display: grid;
+    grid-template-columns:auto auto auto auto;
+    row-gap: 10px;
+    
+}
+.imgpo{
+    width:300px;
+    height: 250px;
+}

@@ -1,0 +1,41 @@
+.log{
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}
+.logh1{
+    color: rgb(17,47,118);
+    font-family: 'Times New Roman';
+    font-size: 70px;
+    
+    
+}
+.logh2{
+    color: rgb(70, 208, 208);
+    font-family: 'Times New Roman';
+    font-size: 70px;
+
+}
+.log1{
+    text-align: center;
+    margin: auto;
+    padding-right: 70px;
+    box-shadow: 10px 10px 10px 2px rgb(40 40 40);
+    ;
+}
+.logbox{
+    
+    text-align: center;
+}
+.logbtn{
+    background: rgb(17,47,118);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+}
+.logbtn:hover{
+    background: rgb(255 255 255);
+    color: rgb(17,47,118);
+}

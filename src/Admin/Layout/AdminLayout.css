@@ -1,0 +1,10 @@
+.adlayout{
+    display: flex;
+}
+.adlay{
+     width: 200%;
+    /* padding: 20px; */
+    background-color: rgb(0, 70,135);
+   
+}
+/*  */

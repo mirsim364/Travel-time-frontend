@@ -1,0 +1,100 @@
+.adag{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+    
+    color: white;
+    padding: 160px;
+}
+.adagbtn{
+    background-color:green;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+}
+.adagbtnr{
+    background-color:rgb(205,134,10) ;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+}
+
+.adaginput{
+background-color: white;
+width: 600px;
+}
+.adagh1{
+    font-size: 70px;
+}
+.view{
+    max-height: 900px;
+    overflow-y: scroll;
+}
+.view2{
+    color: whitesmoke;
+    font-size: larger;
+    font-family: arial;
+    border: 1px solid;
+    text-align: center;
+    gap: 4px;
+}
+.view1{
+    color:whitesmoke;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+}
+.delebtn{
+    background-color:rgb(183,33,38) ;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+}
+.edibtn{
+    background-color:rgb(39,170,225) ;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+}
+.pgbt2{
+    background-color: #130569;
+    color: white;
+    
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border-color:#130569;
+    font-weight: 600;
+    font-size: larger;
+}
+.pgbt1{
+    background-color: #4f9185;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    border-color:#4f9185;
+    font-size: large;
+}
+    .pgbt1:hover{
+        background-color:#a19da9 ;
+        color: rgb(14, 11, 11);
+        width: 60px;
+        height: 50px;
+        border-radius: 10px;
+        border-color:#a19da9;
+        
+}
+.pgbtn{
+    text-align: center;
+    padding: 20px;
+}

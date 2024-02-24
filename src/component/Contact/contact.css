@@ -1,0 +1,74 @@
+.coh1{
+    
+    font-size: 50px;
+}
+.cop{
+    
+    font-size: 27px;
+}
+.contactpg{
+    text-align: center;
+}
+.coform{
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90vw;
+    
+}
+.name {
+    margin: 10px;
+    width:60%;
+    padding: 15px;
+    font-size: larger;
+border: 1px solid;
+border-radius: 5px;
+
+
+}
+.email{
+    margin: 10px;
+    width:60%;
+    padding: 15px;
+    font-size: larger;
+border: 1px solid;
+border-radius: 5px;
+
+}
+
+.msg{
+    font-size: larger;
+    margin: 10px;
+    width:60%;
+    padding: 15px;
+border: 1px ;
+border-radius: 5px;
+
+
+}
+
+.btnco{
+    background: rgb(17,47,118);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+
+}
+.btnco:hover{
+    background: rgb(243,235,235);
+    color: rgb(17,47,118);
+}
+.coimg{
+    display: flex;
+    flex-wrap: wrap;
+}
+.social{
+    object-fit: cover;
+    height: 3rem;
+    width: 3rem;
+    margin: 1rem;
+}

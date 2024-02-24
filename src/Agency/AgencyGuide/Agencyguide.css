@@ -1,0 +1,62 @@
+.aggu{
+    text-align: center;
+    font-family: 'Times New Roman';
+    color: white;
+    padding: 40px;
+    margin: auto;
+    
+}
+.aggubtn{
+    background-color:green;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+}
+.aggubtnr{
+    background-color:rgb(205,134,10) ;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+}
+
+.agguinput{
+background-color: white;
+width: 600px;
+}
+.agguh1{
+    font-size: 70px;
+}
+
+.view{
+    max-height: 900px;
+    overflow-y: scroll;
+    
+}
+.view2{
+    width: fit-content;
+    height: fit-content;
+    color: whitesmoke;
+    font-size: larger;
+    font-family: arial;
+    border: 1px solid;
+    
+    gap: 4px;
+    
+}
+.view1{
+    color:whitesmoke;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+   
+}
+.view3{
+    display: flex;
+    align-items: first baseline;
+}
+ 

@@ -1,0 +1,61 @@
+.agpa{
+    text-align: center;
+    font-family: 'Times New Roman';
+    color: white;
+    padding: 60px;
+    max-height: 900px;
+    
+}
+.agpabtn{
+    background-color:green;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+
+}
+.agpabtnr{
+    background-color:rgb(205,134,10) ;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+}
+
+.agpainput{
+background-color:white;
+
+width: 600px;
+/* border-radius: 0px;
+padding: 50px; */
+}
+.agpah1{
+    font-size: 70px;
+}
+.view{
+    max-height: 900px;
+    overflow-y: scroll;
+}
+.view2{
+    display: flex;
+    align-items: center;
+    align-content: flex-start;
+flex-direction: column;
+    color: whitesmoke;
+    font-size: larger;
+    font-family: arial;
+    border: 1px solid;
+    
+    gap: 4px;
+    /* display: flex;
+    align-items: flex-start; */
+}
+.view1{
+    color:whitesmoke;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+}

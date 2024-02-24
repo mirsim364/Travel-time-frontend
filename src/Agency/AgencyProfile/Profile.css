@@ -1,0 +1,19 @@
+.view{
+    max-height: 900px;
+    overflow-y: scroll;
+}
+.view2{
+    color: whitesmoke;
+    font-size: larger;
+    font-family: arial;
+    border: 1px solid;
+    text-align: center;
+    gap: 4px;
+}
+.view1{
+    color:whitesmoke;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+}

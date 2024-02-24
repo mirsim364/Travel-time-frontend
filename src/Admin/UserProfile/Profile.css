@@ -1,0 +1,52 @@
+.view{
+    max-height: 900px;
+    overflow-y: scroll;
+}
+.view2{
+    color: whitesmoke;
+    font-size: larger;
+    font-family: arial;
+    border: 1px solid;
+    text-align: center;
+    gap: 4px;
+}
+.view1{
+    color:whitesmoke;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+}
+.adgu{
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    padding: 160px;
+    font-family: 'Times New Roman';
+   
+}
+
+.adgubtn{
+    background-color:green;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+}
+.adgubtnr{
+    background-color:rgb(205, 134, 10) ;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width:150px;
+}
+
+.adguinput{
+background-color: white;
+width: 600px;
+}
+.adguh1{
+    font-size: 70px;
+}

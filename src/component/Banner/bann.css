@@ -1,0 +1,35 @@
+.banner{
+    text-align: center;
+    padding: 250px;
+    color: rgb(4, 74, 59);
+}
+
+.banbtn{
+    background: rgb(17, 47, 118);
+    color: rgb(243, 235, 235);
+    border: none;
+    padding: 1rem 1rem;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.banbtn:hover{
+    background: white;
+    color: rgb(17, 47, 118);
+}
+
+.banh1{
+    font-size: 75px;
+    padding: 10px;
+    
+}
+.banp{
+    font-size: 30px;
+}
+.logbg{
+    background: url('../../assests/back.jpg');
+  
+    height: 100%;
+    background-size:cover;
+    background-position: center; 
+}

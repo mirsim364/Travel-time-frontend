@@ -1,0 +1,55 @@
+.vie{
+    max-height: 900px;
+    overflow-y: scroll;
+    
+}
+.vie2{
+    color: black;
+    font-size: 25px;
+    font-family: 'Times New Roman';
+font-weight: 550;
+    border-bottom: 2px solid;
+    border-top: 2px solid;
+    text-align: center;
+    gap: 4px;
+}
+.vie1{
+    color:rgb(8, 8, 8);
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+}
+.pgbutton{
+    background-color: #0b6623;
+    color: white;
+    
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border-color:#0b6623;
+    font-weight: 600;
+    font-size: larger;
+}
+.pgbutton1{
+    background-color: #97cf8a;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    border-color:#97cf8a;
+    font-size: large;
+}
+    .pgbutton1:hover{
+        background-color: #68b0ab;
+        color: white;
+        width: 60px;
+        height: 50px;
+        border-radius: 10px;
+        border-color:#68b0ab;
+        
+}
+.pgbtn{
+    text-align: center;
+    padding: 20px;
+}

@@ -1,0 +1,23 @@
+.agsidebar{
+    background-color: #EAAC8B;
+    width: 300px;
+    height: 900px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 15px ;
+
+}
+
+ .toggle1{
+    color: white;
+    background-color: #C06C84;
+    
+    width: 95px;
+    height: 80px;
+    font-family: italian;
+    font-size: x-large;
+    border-radius: 10px;
+    border-color:#C06C84;
+} 
